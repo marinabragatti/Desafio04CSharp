@@ -1,0 +1,11 @@
+C:\Users\MABB\source\repos\Desafio04\Desafio04\bin\Debug\netcoreapp3.1\Desafio04.exe
+C:\Users\MABB\source\repos\Desafio04\Desafio04\bin\Debug\netcoreapp3.1\Desafio04.deps.json
+C:\Users\MABB\source\repos\Desafio04\Desafio04\bin\Debug\netcoreapp3.1\Desafio04.runtimeconfig.json
+C:\Users\MABB\source\repos\Desafio04\Desafio04\bin\Debug\netcoreapp3.1\Desafio04.runtimeconfig.dev.json
+C:\Users\MABB\source\repos\Desafio04\Desafio04\bin\Debug\netcoreapp3.1\Desafio04.dll
+C:\Users\MABB\source\repos\Desafio04\Desafio04\bin\Debug\netcoreapp3.1\Desafio04.pdb
+C:\Users\MABB\source\repos\Desafio04\Desafio04\obj\Debug\netcoreapp3.1\Desafio04.csprojAssemblyReference.cache
+C:\Users\MABB\source\repos\Desafio04\Desafio04\obj\Debug\netcoreapp3.1\Desafio04.AssemblyInfoInputs.cache
+C:\Users\MABB\source\repos\Desafio04\Desafio04\obj\Debug\netcoreapp3.1\Desafio04.AssemblyInfo.cs
+C:\Users\MABB\source\repos\Desafio04\Desafio04\obj\Debug\netcoreapp3.1\Desafio04.dll
+C:\Users\MABB\source\repos\Desafio04\Desafio04\obj\Debug\netcoreapp3.1\Desafio04.pdb
